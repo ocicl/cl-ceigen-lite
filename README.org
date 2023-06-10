@@ -1,0 +1,9 @@
+* cl-ceigen-lite
+
+Common Lisp CFFI interface to ceigen_lite which inturn is a C interface to C++ Eigen library
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/digikar99/cl-ceigen-lite.git |
+| commit  | d13210d                                             |
+| systems | ceigen-lite                                         |
+|---------+-----------------------------------------------------|
