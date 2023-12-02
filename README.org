@@ -4,6 +4,6 @@ Common Lisp CFFI interface to ceigen_lite which inturn is a C interface to C++ E
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/digikar99/cl-ceigen-lite.git |
-| commit  | d13210d                                             |
+| commit  | 5eeb535                                             |
 | systems | ceigen-lite                                         |
 |---------+-----------------------------------------------------|
